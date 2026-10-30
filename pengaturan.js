@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Mostmoment Graduation",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
-    whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyAo4ZToxN4wg9i3wTZd3j_rW3ris_YFiDU",
+    whatsappAdmin: "6285191043345" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
